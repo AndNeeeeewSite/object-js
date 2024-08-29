@@ -75,7 +75,7 @@ const movie = {
     title: 'Harry Potter',
     director: 'David Yates',
     year:'2001-2011',
-    rating: 8,
+    rating: 10,
     checkRating(){
         task_4_title.textContent = this.title
         task_4_director.textContent = this.director
